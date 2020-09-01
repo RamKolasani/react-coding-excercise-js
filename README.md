@@ -1,4 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Problem statement:
+
+Create an app that does the following:
+
+Reads data from the attached JSON file
+Done with the following code (on line 4 of App.tsx)
+(import menuData from './menu-data.json';)
+Render a list of all the items
+Allow the item to be clicked, and bring you to a new page
+On the new page, show the item, and allow editing of:
+price
+isAvailable
+Save the changes using React "setState"
+Button to go back to main list page
+On every update, log the full menu to the console
+Then, write some unit tests for the components you made (https://create-react-app.dev/docs/running-tests)
+
+Couple things I want to see:
+
+Add a "router" library to handle the page changes (https://create-react-app.dev/docs/adding-a-router)
+Use some stateless components for data display
+Using local state to hold the updated items
+Use CSS to make the components look good (nothing crazy, but just somewhat presentable)
+Have at least 75% unit test coverage (npm run coverage)
+
+
+his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
