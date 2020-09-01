@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test DisplayMenuItems component test DisplayMenuItem snapshot 1`] = `
+<Link
+  to={
+    Object {
+      "pathname": "/view-item/16306",
+      "state": Object {
+        "available": true,
+        "category": "Beverages",
+        "description": "",
+        "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/Jw5kV6JUEeqSXYyFkDJJSQ.jpg",
+        "itemId": 16306,
+        "modifierGroups": Object {},
+        "name": "Coffee",
+        "price": 200,
+        "tax": 8.25,
+        "timePeriods": Array [
+          Object {
+            "alwaysAvailable": true,
+            "daysOfWeek": Array [],
+            "description": null,
+            "period": Array [],
+            "price": null,
+          },
+        ],
+      },
+    }
+  }
+>
+  <div
+    className="display-items"
+  >
+    <img
+      alt="Coffee image"
+      className="item-image"
+      src="https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/Jw5kV6JUEeqSXYyFkDJJSQ.jpg"
+    />
+    <div
+      className="item-details"
+    >
+      <h3
+        className="item-name"
+      >
+        Coffee
+      </h3>
+      <ul>
+        <li>
+          <p>
+            <strong>
+              Description: 
+            </strong>
+          </p>
+        </li>
+        <li>
+          <p>
+            <strong>
+              Category: 
+            </strong>
+            Beverages
+          </p>
+        </li>
+        <li>
+          <p>
+            <strong>
+              Item Id: 
+            </strong>
+            16306
+          </p>
+        </li>
+        <li>
+          <p>
+            <strong>
+              Availability: 
+            </strong>
+            Available
+          </p>
+        </li>
+      </ul>
+      <p
+        className="price"
+      >
+        <strong>
+          Price: ₹
+          200
+           | Tax: ₹
+          8.25
+        </strong>
+      </p>
+    </div>
+  </div>
+</Link>
+`;

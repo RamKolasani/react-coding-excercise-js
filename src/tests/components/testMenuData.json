@@ -1,0 +1,62 @@
+{
+    "16306": {
+      "name": "Coffee",
+      "category": "Beverages",
+      "itemId": 16306,
+      "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/Jw5kV6JUEeqSXYyFkDJJSQ.jpg",
+      "price": 200,
+      "tax": 8.25,
+      "available": true,
+      "description": "",
+      "modifierGroups": {},
+      "timePeriods": [
+        {
+          "price": null,
+          "description": null,
+          "daysOfWeek": [],
+          "period": [],
+          "alwaysAvailable": true
+        }
+      ]
+    },
+    "16307": {
+      "name": "Sakura Sunrise",
+      "category": "Beverages",
+      "itemId": 16307,
+      "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/KIaecKJUEeqcuIyFkDJJSQ.jpg",
+      "price": 400,
+      "tax": 8.25,
+      "available": true,
+      "description": "Alcohol Free",
+      "modifierGroups": {},
+      "timePeriods": [
+        {
+          "price": null,
+          "description": null,
+          "daysOfWeek": [],
+          "period": [],
+          "alwaysAvailable": true
+        }
+      ]
+    },
+    "16308": {
+      "name": "Shirley Temple",
+      "category": "Beverages",
+      "itemId": 16308,
+      "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/KlJfY6JUEeqPSYyFkDJJSQ.jpg",
+      "price": 400,
+      "tax": 8.25,
+      "available": true,
+      "description": "Alcohol Free",
+      "modifierGroups": {},
+      "timePeriods": [
+        {
+          "price": null,
+          "description": null,
+          "daysOfWeek": [],
+          "period": [],
+          "alwaysAvailable": true
+        }
+      ]
+    }
+}

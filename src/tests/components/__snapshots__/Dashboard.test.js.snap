@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Dashboard component test Dashboard snapshot 1`] = `
+<div
+  className="dashboard"
+>
+  <ul
+    className="items-list"
+  >
+    <li
+      id="16306"
+    >
+      <DisplayMenuItems
+        item={
+          Object {
+            "available": true,
+            "category": "Beverages",
+            "description": "",
+            "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/Jw5kV6JUEeqSXYyFkDJJSQ.jpg",
+            "itemId": 16306,
+            "modifierGroups": Object {},
+            "name": "Coffee",
+            "price": 200,
+            "tax": 8.25,
+            "timePeriods": Array [
+              Object {
+                "alwaysAvailable": true,
+                "daysOfWeek": Array [],
+                "description": null,
+                "period": Array [],
+                "price": null,
+              },
+            ],
+          }
+        }
+      />
+    </li>
+    <li
+      id="16307"
+    >
+      <DisplayMenuItems
+        item={
+          Object {
+            "available": true,
+            "category": "Beverages",
+            "description": "Alcohol Free",
+            "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/KIaecKJUEeqcuIyFkDJJSQ.jpg",
+            "itemId": 16307,
+            "modifierGroups": Object {},
+            "name": "Sakura Sunrise",
+            "price": 400,
+            "tax": 8.25,
+            "timePeriods": Array [
+              Object {
+                "alwaysAvailable": true,
+                "daysOfWeek": Array [],
+                "description": null,
+                "period": Array [],
+                "price": null,
+              },
+            ],
+          }
+        }
+      />
+    </li>
+    <li
+      id="16308"
+    >
+      <DisplayMenuItems
+        item={
+          Object {
+            "available": true,
+            "category": "Beverages",
+            "description": "Alcohol Free",
+            "imageUrl": "https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/KlJfY6JUEeqPSYyFkDJJSQ.jpg",
+            "itemId": 16308,
+            "modifierGroups": Object {},
+            "name": "Shirley Temple",
+            "price": 400,
+            "tax": 8.25,
+            "timePeriods": Array [
+              Object {
+                "alwaysAvailable": true,
+                "daysOfWeek": Array [],
+                "description": null,
+                "period": Array [],
+                "price": null,
+              },
+            ],
+          }
+        }
+      />
+    </li>
+  </ul>
+</div>
+`;

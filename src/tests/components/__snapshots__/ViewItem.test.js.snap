@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing ViewItem component should test ViewItem component 1`] = `
+<div
+  className="view-item"
+>
+  <div
+    id="nav-bar-button"
+    onClick={[Function]}
+  >
+     &lt; Back to Dashboard
+  </div>
+  <div
+    id="content"
+  >
+    <img
+      alt="Coffee image"
+      src="https://presto-resources.s3.amazonaws.com/android__menueditor_images__/images/dynamic/Jw5kV6JUEeqSXYyFkDJJSQ.jpg"
+    />
+    <div
+      id="view-item-details"
+    >
+      <p>
+        <strong>
+          Item Name: 
+        </strong>
+        Coffee
+      </p>
+      <p>
+        <strong>
+          Description: 
+        </strong>
+      </p>
+      <p>
+        <strong>
+          Item Category: 
+        </strong>
+        Beverages
+      </p>
+      <p>
+        <strong>
+          Item Id: 
+        </strong>
+        16306
+      </p>
+      <p>
+        <strong>
+          Availability: 
+        </strong>
+        <span
+          data-test="available"
+        >
+          Available
+        </span>
+         
+        <span
+          className="edit-pen"
+          onClick={[Function]}
+          title="Edit Availability"
+        >
+          ✎
+        </span>
+      </p>
+      <p>
+        <strong>
+          Item Price: 
+        </strong>
+         ₹
+        <span
+          data-test="price"
+        >
+          200
+        </span>
+         
+        <span
+          className="edit-pen"
+          onClick={[Function]}
+          title="Edit Price"
+        >
+          ✎
+        </span>
+      </p>
+      <p>
+        <strong>
+          Tax: 
+        </strong>
+         ₹
+        8.25
+      </p>
+    </div>
+  </div>
+</div>
+`;
